@@ -11,3 +11,5 @@ Paragraph text here.
 puts "this is code"
 if this then that
 ```
+## Link below
+Have some flowing text here to link to [this page](https://www.bendickins.net/).
