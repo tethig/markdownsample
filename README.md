@@ -2,10 +2,10 @@
 
 ## Header 2
 
-* Bullet 1
+* 1
 * Bullet 2
 
-Paragraph text here.
+Paragraph [text](http://prose.io) here.
 
 ```ruby
 puts "this is code"
